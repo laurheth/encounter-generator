@@ -1,0 +1,129 @@
+0-Level Arcane Spells: Cantrips
+Arcane Mark: Inscribes a permanent personal rune (visible or invisible).
+
+Detect Magic: Detects spells and magic items within 60 ft. for up to 1 min./level or until concentration ends.
+
+Light: Object shines like a torch for 10 min./level.
+
+Mage Hand: 5-pound telekinesis. Lasts until concentration ends.
+
+Prestidigitation: Performs minor tricks for 1 hour.
+
+Read Magic: Read scrolls and spellbooks for 10 min./level.
+
+1st-Level Arcane Spells
+Feather Fall: Objects or creatures fall slowly for 1 round/level or until landing.
+
+Floating Disk: Creates 3-ft.-diameter horizontal disk that holds 100 lb./level. Lasts for 1 hour/level.
+
+Mage Armor: Gives subject +4 armor bonus for 1 hour/level.
+
+Magic Missile: 1d4+1 damage; +1 missile per two levels above 1st (max 5).
+
+Sleep: Puts 4 HD of creatures into magical slumber for 1 min./level.
+
+Shocking Grasp: Touch delivers 1d6/level electricity damage (max 5d6).
+
+2nd-Level Arcane Spells
+Acid Arrow: Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.
+
+Flaming Sphere: Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.
+
+Invisibility: Subject is invisible for 1 min./level or until it attacks.
+
+Knock: Opens locked or magically sealed door.
+
+Levitate: Subject moves up and down at your direction for 1 min./level.
+
+Spider Climb: Grants ability to walk on walls and ceilings for 10 min./level.
+
+3rd-Level Arcane Spells
+Clairaudience/Clairvoyance: Hear or see at a distance for 1 min./level.
+
+Dispel Magic: Cancels magical spells and effects.
+
+Fireball: 1d6 damage per level, 20-ft. radius.
+
+Fly: Subject flies at speed of 60 ft. for 1 min./level.
+
+Lightning Bolt: Electricity deals 1d6/level damage.
+
+Vampiric Touch: Touch deals 1d6/two levels damage; caster gains damage as hp which last for 1 hour.
+
+4th-Level Arcane Spells
+Animate Dead: Creates level X2 HD of undead skeletons or zombies.
+
+Arcane Eye: Invisible floating eye moves 30 ft./round for 1 min./level.
+
+Black Tentacles: Tentacles grapple all within 20 ft. spread for 1 round/level.
+
+Dimension Door: Teleports you short distance.
+
+Polymorph: Gives one willing subject a new form for 1 min./level.
+
+Stoneskin: Ignore 10 points of damage per attack. Lasts for 10 min./level or until discharged.
+
+5th-Level Arcane Spells
+Cloudkill: Kills 3 HD or less; 4-6 HD save or die, 6+ HD take STR damage. Lasts for 1 min./level.
+
+Contact Other Plane: Lets you ask one question of extraplanar entity. Lasts until concentration ends.
+
+Feeblemind: Subject’s MIND score drops to 1.
+
+Passwall: Creates passage through wood or stone wall for 1 hour/level.
+
+Permanency: Makes certain spells permanent.
+
+Teleport: Instantly transports you as far as 100 miles/level.
+
+6th-Level Arcane Spells
+Antimagic Field: Negates magic within 10 ft. for 10 min./level.
+
+Chain Lightning: 1d6/level damage; 1 secondary bolt/level each deals half damage.
+
+Contingency: Sets trigger condition for another spell. Lasts for 1 day/level or until discharged.
+
+Disintegrate: Destroys one creature or object.
+
+Geas: Commands any creature, binding it to a specific task. Lasts for 1 day/level or until discharged.
+
+True Seeing: Lets you see all things as they really are for 1 min./level.
+
+7th-Level Arcane Spells
+Delayed Blast Fireball: 1d6/level fire damage; you can postpone blast for 5 rounds.
+
+Ethereal Jaunt: You become ethereal for 1 round/level.
+
+Finger of Death: Kills one subject.
+
+Plane Shift: As many as eight subjects travel to another plane.
+
+Power Word Blind: Blinds creature with 200 hp or less for 1d4+1 minutes (permanent if creature has less than 50 hp).
+
+Spell Turning: Reflect 1d4+6 spell levels back at caster for 10 min./level or until expended.
+
+8th-Level Arcane Spells
+Clone: Duplicate awakens when original dies.
+
+Horrid Wilting: Deals 1d6/level damage within 30 ft.
+
+Incendiary Cloud: Cloud deals 4d6 fire damage/round for 1 round/level.
+
+Irresistible Dance: Forces subject to dance for 1d4+1 rounds.
+
+Power Word Stun: Stuns creature with 150 hp or less for 2d4 rounds.
+
+Trap the Soul: Imprisons subject within gem.
+
+9th-Level Arcane Spells
+Astral Projection: Projects you and companions onto Astral Plane.
+
+Etherealness: Travel to Ethereal Plane with companions for 1 min./level.
+
+Gate: Connects two planes for travel or summoning. Open for 1 round/level.
+
+Meteor Swarm: Four exploding spheres each deal 6d6 fire damage.
+
+Power Word Kill: Kills one creature with 100 hp or less.
+
+Soul Bind: Traps newly dead soul to prevent resurrection.

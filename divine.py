@@ -1,0 +1,10 @@
+divine=[["Create Water","Guidance","Light","Purify Food and Drink","Resistance","Virtue"],
+["Bless","Bless Water","Cure Light Wounds","Divine Favor","Magic Stone","Shield of Faith"],
+["Aid","Cure Moderate Wounds","Delay Poison","Gentle Repose","Remove Paralysis","Restoration, Lesser"],
+["Create Food and Water","Cure Serious Wounds","Prayer","Remove Disease","Searing Light","Speak with Dead"],
+["Cure Critical Wounds","Discern Lies","Freedom of Movement","Neutralize Poison","Restoration","Tongues"],
+["Atonement","Commune","Cure Light Wounds","Flame Strike","Raise Dead","True Seeing"],
+["Banishment","Cure Moderate Wounds, Mass","Harm","Heal","Heroes' Feast","Quest"],
+["Cure Serious Wounds, Mass","Destruction","Ethereal Jaunt","Regenerate","Restoration, Greater","Resurrection"],
+["Antimagic Field","Cure Critical Wounds, Mass","Dimensional Lock","Discern Location","Fire Storm","Holy Aura"],
+["Astral Projection","Etherealness","Gate","Heal, Mass","Implosion","Soul Bind"]]
