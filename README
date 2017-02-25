@@ -1,3 +1,5 @@
+# encounter-generator
+
 Random encounter generator for Microlite20 that runs in a browser using CherryPy.
 
 Required python modules:
