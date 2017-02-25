@@ -1,4 +1,4 @@
-Random encounter generator for Microlite20 that runs in a browser.
+Random encounter generator for Microlite20 that runs in a browser using CherryPy.
 
 Required python modules:
 cherrypy
