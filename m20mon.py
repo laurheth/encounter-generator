@@ -324,7 +324,7 @@ def makenpc(level,clss="any",race="any"):
         goodat=goodat[:-2]
 
     # choose background...
-    bgs=["farmer","metalsmith","teacher","shopkeeper","craftsman","carpenter","mason","fisherman","hunter","beggar","addict","beast tamer","jeweler","locksmith","barkeeper","waiter","merchant","officer","traveller","adventurer","alchemist","chef","artisan","writer","artist","dancer","musician","priest"]
+    bgs=["farmer","metalsmith","teacher","shopkeeper","crafter","carpenter","mason","fisher","hunter","beggar","addict","beast tamer","jeweler","locksmith","barkeeper","waiter","merchant","officer","traveller","adventurer","alchemist","chef","artisan","writer","artist","dancer","musician","priest"]
 
     bg=random.choice(bgs)
     if bg=="farmer":
